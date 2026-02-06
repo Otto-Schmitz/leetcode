@@ -28,6 +28,7 @@ Repository of **Java** solutions for [LeetCode](https://leetcode.com/) problems.
 | 8 | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | `StringToIntegerAtoi_8.java` |
 | 12 | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | `IntegerToRoman_12.java` |
 | 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | `RomanToInteger_13.java` |
+| 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | `LongestCommonPrefix_14.java` |
 | 1590 | [Make Sum Divisible by P](https://leetcode.com/problems/make-sum-divisible-by-p/) | `MakeSumDivisibleByP_1590.java` |
 
 ### Build and run
@@ -74,6 +75,7 @@ Repositório com soluções em **Java** para problemas do [LeetCode](https://lee
 | 8 | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | `StringToIntegerAtoi_8.java` |
 | 12 | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | `IntegerToRoman_12.java` |
 | 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | `RomanToInteger_13.java` |
+| 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | `LongestCommonPrefix_14.java` |
 | 1590 | [Make Sum Divisible by P](https://leetcode.com/problems/make-sum-divisible-by-p/) | `MakeSumDivisibleByP_1590.java` |
 
 ### Como compilar e executar

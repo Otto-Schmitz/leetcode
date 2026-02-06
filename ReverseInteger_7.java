@@ -18,7 +18,7 @@ public class ReverseInteger_7 {
     public static void main(String[] args) {
         ReverseInteger_7 reverseInteger = new ReverseInteger_7();
 
-        System.out.println(reverseInteger.reverse(9646324351));
+//        System.out.println(reverseInteger.reverse(9646324351));
         System.out.println(reverseInteger.reverse(-123));
     }
 }
